@@ -1,5 +1,6 @@
 package com.example.quicar;
 
-public class mushCooked extends Shape {
+public abstract class mushCooked extends Shape {
     String color = "RED";
+    //haha
 }
