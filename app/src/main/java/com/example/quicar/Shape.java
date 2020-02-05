@@ -1,5 +1,6 @@
 package com.example.quicar;
 
 public abstract class Shape {
-    int x,y;
+    private int x,y;
+    private String color = "blue";
 }
